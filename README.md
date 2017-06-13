@@ -5,7 +5,8 @@ All original work is licensed under the MIT license, and all derivative work is 
 
 If there are any concerns regarding licensing, get in touch and we will attempt to resolve it as soon as possible
 
-Statement of Disclaimer
+#Statement of Disclaimer
+
 Since this project is a result of a class assignment, it has been graded and accepted as fulfillment of the
 course requirements. Acceptance does not imply technical accuracy or reliability. Any use of information
 in this report is done at the risk of the user. These risks may include catastrophic failure of the device or

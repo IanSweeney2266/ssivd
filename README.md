@@ -12,5 +12,3 @@ course requirements. Acceptance does not imply technical accuracy or reliability
 in this report is done at the risk of the user. These risks may include catastrophic failure of the device or
 infringement of patent or copyright laws. California Polytechnic State University at San Luis Obispo and
 its staff cannot be held liable for any use or misuse of the project.
-
-This repository will be fully populated by June 16th, 2017
